@@ -1,0 +1,1 @@
+puts "WEBCAMでプログラミング学習".include?("WEBCAMP")
